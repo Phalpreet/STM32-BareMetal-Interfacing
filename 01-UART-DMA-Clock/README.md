@@ -24,7 +24,7 @@ Developed a terminal interface relying on precise UART data transmission. A pers
 ## 📂 Repository Structure
 * `/src` - Source files (`.c`), including main application logic and custom peripheral drivers.
 * `/inc` - Header files (`.h`), including the corrected clock configuration libraries.
-* `/docs` - (Optional) Any hardware schematics or datasheets referenced.
+
 
 ## 💡 What I Learned
 This project reinforced the importance of thoroughly verifying datasheet specifications against provided software libraries. Troubleshooting the clock formula and UART coordinate logic significantly improved my ability to trace memory and timing issues at the register level.
